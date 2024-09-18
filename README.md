@@ -8,6 +8,7 @@
   <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
+url:https://cooperfitch.ae/wp-content/uploads/2020/10/Copy-of-shutterstock_203618407.jpg
   
 </body>
 </html>
