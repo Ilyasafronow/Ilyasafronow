@@ -8,7 +8,7 @@
   <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
-<img src=<"Untitled_page-0001](https://github.com/user-attachments/assets/5d35bd27-9b52-4499-a586-4d71e247e962">
+<img src=<"Untitled_page-0001](https://github.com/user-attachments/assets/5d35bd27-9b52-4499-a586-4d71e247e962.png">
 
 </body>
 </html>
