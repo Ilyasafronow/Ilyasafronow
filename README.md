@@ -7,11 +7,12 @@
   <title> мои навыки </title>
   <link rel="stylesheet" href="/css/main.css">
 </head>
-   <Button> </Button>
+  <form>
+   <P>Button> телега </Button>
 <body>
 <img src="https://cs.pikabu.ru/post_img/big/2013/02/18/9/1361195631_1160682062.jpg">
-   
-  
+</form>
+</Button></P>
 </body>
 </html>
   
