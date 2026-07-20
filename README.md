@@ -1,9 +1,8 @@
 <!Doctype html>
 <html lang= 'en'>
 <head>
-   <p class="center-text">
-     Программирование
-</p>
+<div id="header" align="center">
+</div>
   <body>
 <img.src="https://github.com/user-attachments/assets/2bc53416-4cea-4c56-bf7a-652568dde2e3">
 <div id="header" align="center">
