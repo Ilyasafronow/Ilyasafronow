@@ -2,7 +2,7 @@
 <html lang= 'en'>
 <head>
   <div class="centered-text">
-  <h1>Программиирование</h1>
+  Программирование
 </div>
 <img.src="https://github.com/user-attachments/assets/2bc53416-4cea-4c56-bf7a-652568dde2e3">
 <div id="header" align="center">
