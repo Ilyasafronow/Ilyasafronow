@@ -3,7 +3,8 @@
 <head>
   <body>
   <p class="center-text">
-  Welcome to the secret knowledge and programming that awaits us
+  Welcome to the secret knowledge and 
+       programming that awaits us
 </p>
 <img.src="https://github.com/user-attachments/assets/2bc53416-4cea-4c56-bf7a-652568dde2e3">
 <div id="header" align="center">
@@ -12,6 +13,7 @@
   </head>
     </body>
       
+
 
   
 
